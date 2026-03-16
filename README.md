@@ -11,7 +11,6 @@ To learn more about how to print the game or how this project is structured, see
 ## Project info
 
 Creator: Marco Pasquato  
-Link to github repository: [Github](https://github.com/mpasquato/secret-hitler-high-quality-printable-graphics)  
 Original date of creation: 01/11/2020  
 License: CC BY-NC-SA 4.0 DEED (see LICENSE file)  
 Attributions: see ATTRIBUTIONS file
